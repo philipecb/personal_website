@@ -6,15 +6,12 @@ Technologies used:
   JavaScript
     NodeJS
   Go
-  
+
   Libraries:
     Bootstrap 4
-  
+
   Frameworks:
     Hugo
-    
+
   Services:
     GitHub Pages
-  
-  
-

@@ -1,0 +1,80 @@
+## Basic Configuration
+baseurl = "https://example.com/"
+languageCode = "en"
+
+title = "L. Philipe C. B."
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+## Site Settings
+[params]
+    author = "L. Philipe C. B."
+    title = "L. Philipe C. B."
+    description = "I just love code."
+    authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    #copyright = "htr3n"
+    #license = "CC BY-SA 4.0"
+    #licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "philipecb"
+    linkedin = "philipecb"
+    twitter = "philipecb"
+    stackoverflow = "10530820/philipecb"
+    medium = "philipecb"
+    email = "philipe.cb97@hotmail.com"
+    # gravatar = "your-email@example.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    weight = 10
+    url = "/"
+[[menu.main]]
+    name = "Posts"
+    weight = 20
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 30
+    url = "/portfolio/"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 40
+    url = "/about/"
+[[menu.main]]
+    name = "Resumé"
+    weight = 50
+    url = "/"
+
+    #/tags/
+    #/categories/
