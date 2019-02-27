@@ -2,7 +2,7 @@
 baseurl = "https://example.com/"
 languageCode = "en"
 
-title = "L. Philipe C. B."
+title = "PhilipeCB"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -16,8 +16,8 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "L. Philipe C. B."
-    title = "L. Philipe C. B."
+    author = "philipecb"
+    title = "philipecb"
     description = "I just love code."
     authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
