@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://philipecb.github.com"
 languageCode = "en"
 
 title = "PhilipeCB"
@@ -18,7 +18,7 @@ theme = "hyde-hyde"
 [params]
     author = "philipecb"
     title = "philipecb"
-    description = "I just love code."
+    description = "Website under construction..."
     authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
 
