@@ -1,5 +1,7 @@
 # personal_website
 
+I am simplifying this project first, then I will be using the following technologies.
+
 Technologies used:
   HTML5
   CSS3
